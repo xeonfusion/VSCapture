@@ -1,0 +1,3 @@
+/Users/johngeorgedon/Documents/Datex connect/Mono/VSCapturev1.005MonoSource/VSCapture/VSCapture/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/johngeorgedon/Documents/Datex connect/Mono/VSCapturev1.005MonoSource/VSCapture/VSCapture/bin/Release/VSCapture.exe
+/Users/johngeorgedon/Documents/Datex connect/Mono/VSCapturev1.005MonoSource/VSCapture/VSCapture/obj/x86/Release/VSCapture.exe

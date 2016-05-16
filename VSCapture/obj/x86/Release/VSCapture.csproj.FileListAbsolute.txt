@@ -1,0 +1,2 @@
+C:\Users\John\Documents\Datex connect\Mono\VSCapturev1.004MonoSource\VSCapture\VSCapture\bin\Release\VSCapture.exe
+C:\Users\John\Documents\Datex connect\Mono\VSCapturev1.004MonoSource\VSCapture\VSCapture\obj\x86\Release\VSCapture.exe

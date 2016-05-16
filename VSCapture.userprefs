@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="VSCapture/VSCapture.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VSCapture/Class1.cs">
+    <Files>
+      <File FileName="VSCapture/Class1.cs" Line="96" Column="13" />
+      <File FileName="VSCapture/Class2.cs" Line="3" Column="27" />
+      <File FileName="VSCapture/Main.cs" Line="36" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

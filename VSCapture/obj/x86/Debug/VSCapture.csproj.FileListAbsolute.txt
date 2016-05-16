@@ -1,0 +1,5 @@
+C:\Users\John\Documents\Datex connect\Mono\VSCapturev1.004MonoSource\VSCapture\VSCapture\bin\Debug\VSCapture.exe
+C:\Users\John\Documents\Datex connect\Mono\VSCapturev1.004MonoSource\VSCapture\VSCapture\bin\Debug\VSCapture.pdb
+C:\Users\John\Documents\Datex connect\Mono\VSCapturev1.004MonoSource\VSCapture\VSCapture\obj\x86\Debug\VSCapture.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Datex connect\Mono\VSCapturev1.004MonoSource\VSCapture\VSCapture\obj\x86\Debug\VSCapture.exe
+C:\Users\John\Documents\Datex connect\Mono\VSCapturev1.004MonoSource\VSCapture\VSCapture\obj\x86\Debug\VSCapture.pdb
